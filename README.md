@@ -53,7 +53,7 @@
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=linChentang" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=LinChentang&left_color=red&right_color=green&left_text=Hello%20Visitors" /> </div>
 </td></tr>
 
 <tr><td>
