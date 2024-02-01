@@ -26,6 +26,7 @@
     <a href="https://www.zhihu.com/people/yu-chen-63-69-85"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LinChentang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <div align="center"> <img src="https://komarev.com/ghpvc/?username=LinChentang&color=green"/> </div>
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -36,8 +37,6 @@
   </picture>
 
 </div>
-
-<div align="center"> <img  src="https://visitor-badge.glitch.me/badge?page_id=linChentang" /> </div>
 
 
 #  🙋 Hello
@@ -83,5 +82,5 @@
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=LinChentang&theme=xcode" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinChentang&theme=github" />
 </div>
