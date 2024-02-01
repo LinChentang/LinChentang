@@ -27,7 +27,7 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LinChentang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-  
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -36,6 +36,9 @@
   </picture>
 
 </div>
+
+<div align="center"> <img  src="https://visitor-badge.glitch.me/badge?page_id=linChentang" /> </div>
+
 
 #  🙋 Hello
 
@@ -60,15 +63,25 @@
 <!-- ########################################## 分割 
 
 <!-- GitHub 数据统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJupyter&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center">
+    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aJupyter&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center">
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinChentang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinChentang" /> </div>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LinChentang&theme=dark&hide_border=true" />
+</div>
 
 <!-- GitHub 奖杯🏆 -->
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=LinChentang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /> </div>
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=LinChentang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinChentang&theme=github" /> </div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=LinChentang&theme=xcode" />
+</div>
