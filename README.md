@@ -82,6 +82,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 31 January 2023 - To: 31 January 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
