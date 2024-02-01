@@ -80,6 +80,10 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=LinChentang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinChentang&theme=github" />
