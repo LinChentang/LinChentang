@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);LinChentang同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);LinChentang同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -19,9 +19,9 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://www.youtube.com/feed/you"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/346629528?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
