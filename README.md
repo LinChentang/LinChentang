@@ -26,6 +26,7 @@
     <a href="https://www.zhihu.com/people/yu-chen-63-69-85"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LinChentang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <div align="center"> <img src="https://komarev.com/ghpvc/?username=LinChentang&color=green"/> </div>
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -53,7 +54,6 @@
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=LinChentang&color=green"/> </div>
 
 </td></tr>
 
