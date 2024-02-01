@@ -22,7 +22,7 @@
     <a href="https://www.youtube.com/feed/you"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5OTc0MjcxNQ==&scene=124#wechat_redirect"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/346629528?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_64266899?spm=1011.2124.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/yu-chen-63-69-85"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LinChentang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
