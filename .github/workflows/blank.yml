@@ -1,4 +1,4 @@
-name: Push to GitHub
+- name: Push to GitHub
   uses: EndBug/add-and-commit@v7.2.1
   with:
     branch: main
