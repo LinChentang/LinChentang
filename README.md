@@ -83,5 +83,5 @@
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=LinChentang&theme=xcode" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinChentang&theme=github" />
 </div>
