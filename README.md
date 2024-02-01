@@ -19,7 +19,7 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.youtube.com/@LinChentang"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://www.youtube.com/feed/you"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5OTc0MjcxNQ==&scene=124#wechat_redirect"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/346629528?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
