@@ -64,7 +64,7 @@
 
 <!-- spotify -->
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" />
 </div>
 
 <!-- ########################################## 分割 
