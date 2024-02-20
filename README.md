@@ -90,18 +90,6 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 19 February 2023 - To: 19 February 2024
-
-Total Time: 6 hrs 11 mins
-
-Python     5 hrs           ████████████████████▒░░░░   80.68 %
-Markdown   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-YAML       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-XML        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
