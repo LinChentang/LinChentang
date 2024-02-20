@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);LinChentang同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
@@ -38,6 +38,9 @@
 
 </div>
 
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=LinChentang" />
+</div>
 
 #  🙋 Hello
 
@@ -58,6 +61,12 @@
 </td></tr>
 
 <tr><td>
+
+<!-- IT笑话 -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+
+<!-- spotify -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 
 <!-- ########################################## 分割 
 
