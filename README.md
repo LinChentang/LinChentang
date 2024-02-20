@@ -80,7 +80,7 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LinChentang&theme=dark&hide_border=true" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LinChentang&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- GitHub 奖杯🏆 -->
