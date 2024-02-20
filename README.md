@@ -26,7 +26,6 @@
     <a href="https://www.zhihu.com/people/yu-chen-63-69-85"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LinChentang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-    <div align="center"> <img src="https://komarev.com/ghpvc/?username=LinChentang&color=green"/> </div>
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -36,10 +35,6 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-</div>
-
-<div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=LinChentang" />
 </div>
 
 #  🙋 Hello
@@ -63,10 +58,14 @@
 <tr><td>
 
 <!-- IT笑话 -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+</div>
 
 <!-- spotify -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" />
+</div>
 
 <!-- ########################################## 分割 
 
