@@ -85,7 +85,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=LinChentang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=LinChentang&theme=nord&row=1&column=-1&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </div>
 
 <!--START_SECTION:waka-->
