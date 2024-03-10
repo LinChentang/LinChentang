@@ -66,7 +66,7 @@
 <div align="center">
     <img height="137px" src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 <!-- spotify -->
-    <img height="137px" src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" />
+    <img height="137px" src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true" />
 </div>
 
 <!-- ########################################## 分割 
