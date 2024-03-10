@@ -59,9 +59,9 @@
 
 <!-- IT笑话 -->
 <div align="center">
-    <img src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+    <img height="137px" src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 <!-- spotify -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" />
+    <img height="137px" src="https://spotify-github-profile.vercel.app/api/view?uid=31pd5t4fuifh6shglh4tbxfcywae&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" />
 </div>
 
 <!-- ########################################## 分割 
@@ -69,7 +69,7 @@
 <!-- GitHub 数据统计 -->
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinChentang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
