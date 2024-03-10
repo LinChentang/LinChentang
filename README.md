@@ -47,8 +47,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/assets/images/steven.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是LinChentang同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，您好，我是LinChentang同学。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行、运动。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -56,6 +56,11 @@
 </td></tr>
 
 <tr><td>
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LinChentang&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=498" alt="GitHub Streak" /></a>
+</div>
 
 <!-- IT笑话 -->
 <div align="center">
@@ -70,11 +75,6 @@
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinChentang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LinChentang&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=498" alt="GitHub Streak" /></a>
 </div>
 
 <!-- GitHub 奖杯🏆 -->
