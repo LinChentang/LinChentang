@@ -47,6 +47,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/assets/images/steven.png" />
 
+<img align="right" alt="Coding" width="250" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 <p>&emsp;&emsp;嗨，您好，我是LinChentang同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行、运动。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
@@ -72,9 +74,10 @@
 <!-- ########################################## 分割 
 
 <!-- GitHub 数据统计 -->
+
 <div align="center">
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinChentang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img name="Anurag's github stats" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinChentang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="LinChentang" />
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="LinChentang" />
 </div>
 
 <!-- GitHub 奖杯🏆 -->
