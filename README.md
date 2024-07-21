@@ -58,7 +58,7 @@
 
 <!-- IT笑话 -->
 <div align="center">
-    <src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+    <img height="137px" src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 </div> 
 
 <!-- spotify -->
