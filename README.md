@@ -56,19 +56,19 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LinChentang&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=498" alt="GitHub Streak" /></a>
-</div>
-
 <!-- IT笑话 -->
 <div align="center">
-    <img height="137px" src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+    <src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 </div> 
 
 <!-- spotify -->
 <div align="center">
     <img height="137px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3127pwiiwrahmpaxu5az3mtv6kze&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+</div>
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LinChentang&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=498" alt="GitHub Streak" /></a>
 </div>
 
 <!-- ########################################## 分割 
