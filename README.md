@@ -64,7 +64,10 @@
 <!-- IT笑话 -->
 <div align="center">
     <img height="137px" src="https://readme-jokes.vercel.app/api?hideBorder&&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+</div> 
+
 <!-- spotify -->
+<div align="center">
     <img height="137px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3127pwiiwrahmpaxu5az3mtv6kze&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </div>
 
