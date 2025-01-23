@@ -63,7 +63,7 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=LinChentang&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak" />
+   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=LinChentang&theme=dracula&hide_border=true&mode=weekly&card_width=475" alt="GitHub Streak" />
 </div>
 
 <!-- ########################################## 分割 
