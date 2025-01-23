@@ -19,8 +19,11 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
+    <a href="https://www.instagram.com/lin_chentang"><img src="https://img.shields.io/badge/Instagram-Ins-8134AF" /></a>&emsp;
+    <a href="https://x.com/linchentang23"><img src="https://img.shields.io/badge/X-推特-black" /></a>&emsp;
     <a href="https://www.youtube.com/feed/you"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5OTc0MjcxNQ==&scene=124#wechat_redirect"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://linchentang.top/wechat_qrcode"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://www.xiaohongshu.com/user/profile/66a673f5000000001d023fdb"><img src="https://img.shields.io/badge/Redbook-小红书-ff0077" /></a>&emsp;
     <a href="https://space.bilibili.com/346629528?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_64266899?spm=1011.2124.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/yu-chen-63-69-85"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
@@ -49,10 +52,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/assets/images/steven.png" />
 
-<p>&emsp;&emsp;嗨，您好，我是LinChentang同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行、运动。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;Hi, I am LinChentang.</p>
+<p>&emsp;&emsp;I love programming, photography, reading, traveling, sports.</p>
+<p>&emsp;&emsp;I love computer science and IT Internet career and hope to become an excellent developer.</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
