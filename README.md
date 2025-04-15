@@ -58,14 +58,14 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
-<!-- spotify -->
-<div align="center">
-    <img height="137px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kzkpxppwjav27eiluyjthgz6ii&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kzkpxppwjav27eiluyjthgz6ii&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</div>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
    <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=LinChentang&theme=dracula&hide_border=true&mode=weekly&card_width=475" alt="GitHub Streak" />
+</div>
+
+<!-- spotify -->
+<div align="center">
+    <img height="137px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kzkpxppwjav27eiluyjthgz6ii&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kzkpxppwjav27eiluyjthgz6ii&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </div>
 
 <!-- ########################################## 分割 
