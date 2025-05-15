@@ -18,7 +18,7 @@
   <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
-<div style="font-size: 30px; text-align: center;">
+<div style="font-size: 50px; text-align: center;">
     <a href="https://linchentang.top/wechat_qrcode/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/微信.png" alt="微信" style="height:30px; vertical-align:middle; margin-right:4px;">WeChat</a> 
     <a href="https://github.com/LinChentang" target="_blank" rel="noopener noreferrer">
