@@ -18,26 +18,19 @@
   <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
-  <div style="font-size: 30px; text-align: center;">
-    <a href="https://linchentang.top/wechat_qrcode/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/微信.png"  style="height:24px; vertical-align:middle; margin-right:4px;">WeChat</a> 
-    <a href="https://github.com/LinChentang" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/github.png" style="height:24px; vertical-align:middle; margin-right:4px;">Github</a> 
-    <a href="mailto:z1273611131@163.com" target="_blank" rel="noopener noreferrer"">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/邮箱.png"  style="height:24px; vertical-align:middle; margin-right:4px;">Email</a> 
-    <a href="https://space.bilibili.com/346629528?spm_id_from=333.1007.0.0" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/哔哩哔哩.png" style="height:24px; vertical-align:middle; margin-right:4px;">BiliBili</a> 
-    <a href="https://www.zhihu.com/people/yu-chen-63-69-85" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/知乎.png" style="height:24px; vertical-align:middle; margin-right:4px;">知乎</a> 
-    <a href="https://www.xiaohongshu.com/user/profile/66a673f5000000001d023fdb" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/小红书.png" style="height:24px; vertical-align:middle; margin-right:4px;">小红书</a> 
-    <a href="https://x.com/linchentang23" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/TwitterX.png" style="height:24px; vertical-align:middle; margin-right:4px;">TwitterX</a> 
-    <a href="https://www.youtube.com/@linchentang618" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/youtube .png" style="height:24px; vertical-align:middle; margin-right:4px;">YouTube</a> 
-    <a href="https://blog.csdn.net/weixin_64266899?spm=1011.2124.3001.5343" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/LinChentang/LinChentang.github.io/main/docs/images/plugin/CSDN.png" style="height:24px; vertical-align:middle; margin-right:4px;">CSDN</a> <br>
-  </div>
+  <div style="text-align: center;">
+  <p  style="margin-top: -10px;">
+    <a href="https://linchentang.top/wechat_qrcode/" target="_blank" rel="noopener noreferrer"><img src="./images/微信.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://github.com/LinChentang" target="_blank" rel="noopener noreferrer"><img src="./images/github.png" style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="mailto:z1273611131@163.com" target="_blank" rel="noopener noreferrer"><img src="./images/邮箱.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://space.bilibili.com/346629528?spm_id_from=333.1007.0.0" target="_blank" rel="noopener noreferrer"><img src="./images/哔哩哔哩.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://www.zhihu.com/people/yu-chen-63-69-85" target="_blank" rel="noopener noreferrer"><img src="./images/知乎.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://www.xiaohongshu.com/user/profile/66a673f5000000001d023fdb" target="_blank" rel="noopener noreferrer"><img src="./images/小红书.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://x.com/linchentang23" target="_blank" rel="noopener noreferrer"><img src="./images/TwitterX.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://www.youtube.com/@linchentang618" target="_blank" rel="noopener noreferrer"><img src="./images/youtube .png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_64266899?spm=1011.2124.3001.5343" target="_blank" rel="noopener noreferrer"><img src="./images/CSDN.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
+  </p>
+</div>
 
 <!-- visitor statistics logo 访问量统计-->
 <div align="center">
