@@ -32,7 +32,7 @@
 
 <!-- visitor statistics logo 访问量统计-->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/LinChentang/count.svg" alt="Visitor Count" width="200" />
+  <img src="https://profile-counter.glitch.me/LinChentang/count.svg" alt="Visitor Count" width="225" height="225px" />
 </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
