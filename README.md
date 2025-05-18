@@ -97,20 +97,20 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 January 2024 - To: 14 May 2025
+From: 31 January 2024 - To: 16 May 2025
 
-Total Time: 85 hrs 36 mins
+Total Time: 93 hrs 19 mins
 
-Python       32 hrs 19 mins  █████████▒░░░░░░░░░░░░░░░   37.76 %
-Markdown     31 hrs 58 mins  █████████▒░░░░░░░░░░░░░░░   37.35 %
-HTML         7 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-YAML         5 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Git          2 hrs 59 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Text         2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash         1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JavaScript   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other        26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-JSON         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown     35 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   38.17 %
+Python       32 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.64 %
+HTML         10 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+YAML         5 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Git          3 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Text         2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Bash         1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+JavaScript   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other        26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JSON         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
@@ -123,7 +123,7 @@ JSON         16 mins         ░░░░░░░░░░░░░░░░░
 <!-- profile-3d-contrib 3D贡献图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-gitblock.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-season-animate.svg" />
   <img src="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
