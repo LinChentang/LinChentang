@@ -123,7 +123,7 @@ JSON         16 mins         ░░░░░░░░░░░░░░░░░
 <!-- profile-3d-contrib 3D贡献图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-gitblock.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-season-version-(Northern Hemisphere.).svg" />
   <img src="https://cdn.jsdelivr.net/gh/LinChentang/LinChentang/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
