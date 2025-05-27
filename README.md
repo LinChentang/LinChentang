@@ -65,6 +65,7 @@
 </div>
 
 <!-- github-readme-tech-stack 技术栈 -->
+<<<<<<< HEAD
 <div align="center" style="font-family: 'JetBrains Mono',monospace; font-size: 20px;">
   <p>
   My Tech Stack
@@ -94,6 +95,10 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+=======
+<div align="center">
+   <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontFamily=JetBrains+Mono&fontSize=20&showBorder=false&lineHeight=2&lineCount=4&theme=github&gap=3&width=1024&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=python,python,auto;Markdown,Markdown,auto;pytorch,pytorch,auto;jupyter,jupyter,auto&line2=c,c,auto;rust,rust,auto;HTML5,HTML5,auto;CSS3,CSS3,auto;JavaScript,JavaScript,auto&line3=Windows 11,Windows 11,auto;Ubuntu,Ubuntu,auto;PyCharm,PyCharm,auto;Visual Studio Code,Visual Studio Code,auto;Anaconda,Anaconda,auto&line4=GitHub,GitHub,auto;YouTube,YouTube,auto;Instagram,Instagram,auto;Discord,Discord,auto;TikTok,TikTok,auto;Spotify,Spotify,auto;Steam,Steam,auto;Bilibili,Bilibili,auto;" alt="My Tech Stack" />
+>>>>>>> 90cfa03bd8e0153ec6c9c2c1638aac6752334c37
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
@@ -124,18 +129,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 January 2024 - To: 19 May 2025
+From: 31 January 2024 - To: 25 May 2025
 
-Total Time: 93 hrs 19 mins
+Total Time: 93 hrs 46 mins
 
-Markdown     35 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   38.17 %
-Python       32 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.64 %
-HTML         10 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-YAML         5 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Git          3 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Text         2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Markdown     36 hrs 1 min    █████████▓░░░░░░░░░░░░░░░   38.42 %
+Python       32 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.48 %
+HTML         10 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+YAML         5 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Git          3 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Text         2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 Bash         1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JavaScript   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript   37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other        26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 JSON         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
