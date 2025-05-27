@@ -30,12 +30,12 @@
     <a href="https://www.youtube.com/@linchentang618" target="_blank" rel="noopener noreferrer"><img src="./images/youtube .png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
     <a href="https://blog.csdn.net/weixin_64266899?spm=1011.2124.3001.5343" target="_blank" rel="noopener noreferrer"><img src="./images/CSDN.png"  style="height:32px; vertical-align:middle; margin-right:4px;"></a>&emsp;
   </p>
-</div>
+  </div>
 
-<!-- visitor statistics logo 访问量统计-->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LinChentang/count.svg" alt="Visitor Count" width="225" />
-</div>
+  <!-- visitor statistics logo 访问量统计-->
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/LinChentang/count.svg" alt="Visitor Count" width="225" />
+  </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -65,7 +65,6 @@
 </div>
 
 <!-- github-readme-tech-stack 技术栈 -->
-<<<<<<< HEAD
 <div align="center" style="font-family: 'JetBrains Mono',monospace; font-size: 20px;">
   <p>
   My Tech Stack
@@ -95,10 +94,6 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-=======
-<div align="center">
-   <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontFamily=JetBrains+Mono&fontSize=20&showBorder=false&lineHeight=2&lineCount=4&theme=github&gap=3&width=1024&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=python,python,auto;Markdown,Markdown,auto;pytorch,pytorch,auto;jupyter,jupyter,auto&line2=c,c,auto;rust,rust,auto;HTML5,HTML5,auto;CSS3,CSS3,auto;JavaScript,JavaScript,auto&line3=Windows 11,Windows 11,auto;Ubuntu,Ubuntu,auto;PyCharm,PyCharm,auto;Visual Studio Code,Visual Studio Code,auto;Anaconda,Anaconda,auto&line4=GitHub,GitHub,auto;YouTube,YouTube,auto;Instagram,Instagram,auto;Discord,Discord,auto;TikTok,TikTok,auto;Spotify,Spotify,auto;Steam,Steam,auto;Bilibili,Bilibili,auto;" alt="My Tech Stack" />
->>>>>>> 90cfa03bd8e0153ec6c9c2c1638aac6752334c37
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
