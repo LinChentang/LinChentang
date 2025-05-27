@@ -66,7 +66,7 @@
 
 <!-- github-readme-tech-stack 技术栈 -->
 <div align="center">
-   <img height="168px" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontFamily=JetBrains+Mono&fontSize=20&showBorder=false&lineHeight=2&lineCount=4&theme=github&gap=3&width=1024&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=python,python,auto;Markdown,Markdown,auto;pytorch,pytorch,auto;jupyter,jupyter,auto&line2=c,c,auto;rust,rust,auto;HTML5,HTML5,auto;CSS3,CSS3,auto;JavaScript,JavaScript,auto&line3=Windows 11,Windows 11,auto;Ubuntu,Ubuntu,auto;PyCharm,PyCharm,auto;Visual Studio Code,Visual Studio Code,auto;Anaconda,Anaconda,auto&line4=GitHub,GitHub,auto;YouTube,YouTube,auto;Instagram,Instagram,auto;Discord,Discord,auto;TikTok,TikTok,auto;Spotify,Spotify,auto;Steam,Steam,auto;Bilibili,Bilibili,auto;" alt="My Tech Stack" />
+   <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontFamily=JetBrains+Mono&fontSize=20&showBorder=false&lineHeight=2&lineCount=4&theme=github&gap=3&width=1024&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=python,python,auto;Markdown,Markdown,auto;pytorch,pytorch,auto;jupyter,jupyter,auto&line2=c,c,auto;rust,rust,auto;HTML5,HTML5,auto;CSS3,CSS3,auto;JavaScript,JavaScript,auto&line3=Windows 11,Windows 11,auto;Ubuntu,Ubuntu,auto;PyCharm,PyCharm,auto;Visual Studio Code,Visual Studio Code,auto;Anaconda,Anaconda,auto&line4=GitHub,GitHub,auto;YouTube,YouTube,auto;Instagram,Instagram,auto;Discord,Discord,auto;TikTok,TikTok,auto;Spotify,Spotify,auto;Steam,Steam,auto;Bilibili,Bilibili,auto;" alt="My Tech Stack" />
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
