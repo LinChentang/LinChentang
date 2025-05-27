@@ -65,7 +65,7 @@
 </div>
 
 <!-- github-readme-tech-stack 技术栈 -->
-<div align="center" style="font-family: 'JetBrains Mono',monospace; font-size: 20px;">
+<div align="center" style="font-family: 'JetBrains Mono',monospace; font-size: 16px;">
   <p>
   My Tech Stack
   </p>
@@ -92,7 +92,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
 </div>
 
