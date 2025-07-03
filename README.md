@@ -34,7 +34,7 @@
 
   <!-- visitor statistics logo 访问量统计-->
   <div align="center">
-    <img src="https://profile-counter.glitch.me/LinChentang/count.svg" alt="Visitor Count" width="225" />
+    <img src="https://api.moedog.org/count/@LinChentang.readme" alt="Visitor Count" width="225" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -109,11 +109,9 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center">
-    <img height="148px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinChentang&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=default" />
-    <img height="148px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LinChentang&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=default" />
+    <img height="148px" src="https://github-readme-stats.vercel.app/api?username=LinChentang&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=default" />
+    <img height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinChentang&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=default" />
 </div>
-
-
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
