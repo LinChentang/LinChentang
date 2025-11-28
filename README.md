@@ -121,15 +121,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 January 2024 - To: 25 November 2025
+From: 31 January 2024 - To: 26 November 2025
 
-Total Time: 103 hrs 29 mins
+Total Time: 103 hrs 48 mins
 
-Markdown     39 hrs 29 mins  █████████▓░░░░░░░░░░░░░░░   38.16 %
-Python       37 hrs 43 mins  █████████░░░░░░░░░░░░░░░░   36.45 %
-HTML         10 hrs 53 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-YAML         5 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Git          4 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Markdown     39 hrs 31 mins  █████████▓░░░░░░░░░░░░░░░   38.08 %
+Python       37 hrs 43 mins  █████████░░░░░░░░░░░░░░░░   36.34 %
+HTML         11 hrs 10 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+YAML         5 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Git          4 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 Text         2 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 Bash         1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 JavaScript   37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
