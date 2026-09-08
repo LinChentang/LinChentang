@@ -102,15 +102,15 @@
 
 <!-- spotify -->
 <div align="center">
-    <img height="168px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ndk7wlzonshfe43fboyw2yomcq&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ndk7wlzonshfe43fboyw2yomcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+    <img height="168px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b3g2y7dcumxomkum7mvgovxct4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </div>
 
 <!-- ########################################## 分割 
 
 <!-- GitHub 数据统计 -->
 <div align="center">
-    <img height="148px" src="https://github-readme-stats.vercel.app/api?username=LinChentang&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=default" />
-    <img height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinChentang&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=default" />
+    <img height="148px" src="https://github-stats-extended.vercel.app/api?username=LinChentang&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=default" />
+    <img height="148px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LinChentang&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=default" />
 </div>
 
 <!-- GitHub 奖杯🏆 -->
