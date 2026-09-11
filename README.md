@@ -121,20 +121,20 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 January 2024 - To: 07 September 2026
+From: 31 January 2024 - To: 09 September 2026
 
-Total Time: 107 hrs 6 mins
+Total Time: 107 hrs 52 mins
 
-Markdown     41 hrs 24 mins        █████████▓░░░░░░░░░░░░░░░   38.66 %
-Python       38 hrs 12 mins        █████████░░░░░░░░░░░░░░░░   35.68 %
-HTML         11 hrs 46 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-YAML         5 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Git          4 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Text         2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Bash         1 hr 24 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown     42 hrs 10 mins        █████████▓░░░░░░░░░░░░░░░   39.10 %
+Python       38 hrs 12 mins        █████████░░░░░░░░░░░░░░░░   35.42 %
+HTML         11 hrs 46 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+YAML         5 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Git          4 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Text         2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Bash         1 hr 24 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 JavaScript   37 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other        29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON         17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other        29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JSON         17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
